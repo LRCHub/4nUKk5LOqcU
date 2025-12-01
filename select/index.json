@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハッキリイ",
+  "base_artist": "AKX652",
+  "createdAt": "2025-12-01T16:28:35.790079Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はっきり言って欲しい",
+      "artist": "CloudyCloudy",
+      "has_synced": false,
+      "path": "select/pl_01_はっきり言って欲しい_CloudyCloudy.txt"
+    }
+  ]
+}
